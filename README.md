@@ -1,1 +1,1 @@
-# les-8-pandas
+# Lesson 8 (pandas)
